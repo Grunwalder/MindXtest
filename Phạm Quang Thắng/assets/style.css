@@ -1,0 +1,28 @@
+
+
+
+a {
+    text-decoration: none;
+}
+body {
+    background: whitesmoke;
+}
+
+
+
+.header {
+    width: 100%;
+    height: auto;
+    
+}
+
+
+.users {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 32px;
+    margin: 0 auto;
+}
